@@ -1,0 +1,6 @@
+{
+  "name": "Mausam Adapt",
+  "description": "From Weather Data to Weather-Smart Decisions. Official Government-of-India meteorological decision-support system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
